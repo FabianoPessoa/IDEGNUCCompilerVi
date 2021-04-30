@@ -1,0 +1,4 @@
+==================================================
+Como utilizar _vimrc.vim como inicializador de
+Configuração.
+C:\> vim -u _vimrc.vim <nomedoarquivo>.<formato>
